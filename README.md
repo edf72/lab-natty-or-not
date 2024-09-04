@@ -15,7 +15,7 @@ Olá pessoal, Edson aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, 
     1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
     2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [edson.abreu](https://www.linkedin.com/in/edson-abreu-b1027a1ba/).
+1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar:[edson.abreu](https://www.linkedin.com/in/edson-abreu-b1027a1ba/).
 
 ### Template
 
@@ -31,7 +31,7 @@ Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e
 * Software Adobe Premiere para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo.
 
 ## 🚀 Resultados
 O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
